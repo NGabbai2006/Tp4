@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Exo 2/Exo 2.vcxproj" Id="d644c519-ee5a-43de-b96b-86f50d7beff1" />
   <Project Path="Tp4/Tp4.vcxproj" Id="e628da8b-98da-4e86-8e83-79187ed5c09d" />
 </Solution>
